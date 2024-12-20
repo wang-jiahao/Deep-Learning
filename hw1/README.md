@@ -1,3 +1,12 @@
+- [x] simple: sample code 
+- [x] medium: Feature selection
+- [ ] strong: Diffenrent model architectures and optimizers
+- [ ] boss: L2 regularization and try more parameters
+- [ ] dropout
+- [ ] 数据增强
+- [x] 早停法
+
+
 [第一节 2021 - (上) - 机器学习基本概念简介](https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.788.videopod.episodes&vd_source=c06338b0283c611d7a47c62b0ed23dfa&p=3)
 
 [01-Regression](https://diamond-mule-bee.notion.site/01-Regression-db3f17ba626a43668e016d09d39e35e5#6aac348ef027455e825a2969e071000f)
