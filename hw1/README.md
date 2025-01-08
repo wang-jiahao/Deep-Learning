@@ -1,8 +1,7 @@
 - [x] simple: sample code 
 - [x] medium: Feature selection
-- [ ] strong: Diffenrent model architectures and optimizers
+- [x] strong: Diffenrent model architectures and optimizers
 - [ ] boss: L2 regularization and try more parameters
-- [ ] dropout
 - [ ] 数据增强
 - [x] 早停法
 
